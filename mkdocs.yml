@@ -1,1 +1,5 @@
+site_name: Super Duper Doodle
+
+nav:
+  - Início: index.md
 
